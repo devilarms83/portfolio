@@ -48,5 +48,7 @@ The following animation shows the web application's appearance and functionality
 
 ## Screenshot and link of deployed website portfolio
 
-![portfolio website] (./assets/images/portfoliosite.png)
+![portfolio website](./assets/images/portfoliosite.png)
+
+https://devilarms83.github.io/portfolio/
 
