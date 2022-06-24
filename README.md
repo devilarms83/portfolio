@@ -1,12 +1,26 @@
-# 02 Advanced CSS: Portfolio
+<div id="top"></div>
 
-## Task
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
 
-We're building a portfolio page this week, which we'll continually update throughout the class. Requirements for the assignment is below.
+<h1 align="center">Week 02: Portfolio</h3>
 
-Portfolio URL: https://devilarms83.github.io/portfolio/
+  <p align="center">
+    <a href="https://devilarms83.github.io/portfolio/">
+        <img src="./assets/images/portfoliosite.png" alt="Logo" >
+    </a>
+    <br />
+    <br />
+    For Week 2, we built our first website with no starter code. It will serve as a version of our working portfolio while we complete the Full Stack Developer boot camp. Primarily focuses on what we've learned about HTML and CSS. Click on the image above or the link below to visit the demo.
+    <br />
+    <a href="https://devilarms83.github.io/portfolio/">View Demo</a>
+  </p>
+</div>
 
-## User Story
+# About the Project
+
+## Requirements: User Story
 
 ```
 AS AN employer
@@ -14,7 +28,7 @@ I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 ```
 
-## Acceptance Criteria
+## Requirements: Acceptance Criteria
 
 Here are the critical requirements for this week's portfolio work:
 
@@ -40,15 +54,23 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
-## Mock-Up
+### Built With
 
-The following animation shows the web application's appearance and functionality:
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
 
-![portfolio demo](./assets/02-advanced-css-homework-demo.gif)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Screenshot and link of deployed website portfolio
+<!-- CONTACT -->
+## Contact
 
-![portfolio website](./assets/images/portfoliosite.png)
+Project Link: [https://github.com/devilarms83/portfolio](https://github.com/devilarms83/portfolio)
 
-https://devilarms83.github.io/portfolio/
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Best-README-Template [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
