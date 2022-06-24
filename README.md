@@ -2,7 +2,9 @@
 
 ## Task
 
-We're building a portfolio page this week, which we'll continually update throughout the class. Requirements below.
+We're building a portfolio page this week, which we'll continually update throughout the class. Requirements for the assignment is below.
+
+Portfolio URL: https://devilarms83.github.io/portfolio/
 
 ## User Story
 
@@ -14,7 +16,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 ## Acceptance Criteria
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+Here are the critical requirements for this week's portfolio work:
 
 ```
 GIVEN I need to sample a potential employee's previous work
@@ -43,4 +45,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 The following animation shows the web application's appearance and functionality:
 
 ![portfolio demo](./assets/02-advanced-css-homework-demo.gif)
+
+## Screenshot and link of deployed website portfolio
+
+![portfolio website](./assets/images/portfoliosite.png)
+
+https://devilarms83.github.io/portfolio/
 
